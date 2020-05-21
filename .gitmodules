@@ -1,0 +1,3 @@
+[submodule "tieben.biz/themes/aerial"]
+	path = tieben.biz/themes/aerial
+	url = https://github.com/sethmacleod/aerial.git
